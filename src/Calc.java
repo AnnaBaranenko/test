@@ -24,7 +24,7 @@ public class Calc {
     public static char getOperation() {
         Scanner sc = new Scanner(System.in);
         char operation;
-        System.out.println("введите операцию");
+        System.out.println("введите операцию!!!!!!!!!!!!!!!!!!!!!!!!");
         System.out.println("   ");
         operation = sc.next().charAt(0);
 
